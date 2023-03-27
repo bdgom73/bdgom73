@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/bdgom73)](https://hits.seeyoufarm.com)
 
----
+<br>
 
 <div align=center>
 	<h3>📚 Studying 📚</h3>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </div>
 
----
+<br>
 
 <div align=center>
 	<h3>📚 IDE 📚</h3>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 </div>
 
----
+<br>
 
 <div align=center>
 	<h3>📄 Protfolio & SNS 📄</h3>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
----
+<br>
 
 <div align="center">
 	
