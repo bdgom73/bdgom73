@@ -62,5 +62,8 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdgom73&show_icons=true&theme=radical)
+<div align="center">
+	![bdgom's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdgom73&show_icons=true&theme=radical)
+</div>
