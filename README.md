@@ -38,19 +38,26 @@ Here are some ideas to get you started:
 ---
 
 <div align=center>
-	<h3>📚 IDEA 📚</h3>
+	<h3>📚 IDE 📚</h3>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/IntelliJ-ffffff?style=flat&logo=IntelliJ IDEA&logoColor=black" />
+   <img src="https://img.shields.io/badge/IntelliJ-ffffff?style=flat&logo=IntelliJ IDEA&logoColor=black" />
+   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 </div>
 
 ---
 
 <div align=center>
-	<h3>📄 Protfolio 📄</h3>
+	<h3>📄 Protfolio & SNS 📄</h3>
 </div>
 <div align="center">
   <a href="https://gom-portfolio.onrender.com/">
-    <img src="https://img.shields.io/badge/url-https%3A%2F%2Fgom--portfolio.onrender.com%2F-lightgrey"/>
+   <img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat&logo=Google Chrome&logoColor=black" />
+  </a>
+  <a href="https://gom-portfolio.onrender.com/">
+    <img src="https://img.shields.io/badge/Blog-3EAF0E?style=flat&logo=naver&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bdgom73">
+    <img src="https://img.shields.io/badge/Github-222222?style=flat&logo=Github&logoColor=white"/>
   </a>
 </div>
