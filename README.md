@@ -1,6 +1,6 @@
 <div align="center">
 	
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=bdgom73&fontSize=60&&animation=fadeIn&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=KIJ&fontSize=60&&animation=fadeIn&fontAlign=80)
 
 <!--
 **bdgom73/bdgom73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
