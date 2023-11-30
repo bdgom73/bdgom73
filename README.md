@@ -52,24 +52,15 @@ Here are some ideas to get you started:
 <h3>📄 Protfolio & SNS 📄</h3>
 
 
-<a href="https://gom-portfolio.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat&logo=Google Chrome&logoColor=black" />
+<a href="https://velog.io/@bdgom73">
+<img src="https://img.shields.io/badge/Blog-121212?style=flat&logo=velog&logoColor=white" />
 </a>
-<a href="https://gom-portfolio.onrender.com/">
+<a href="https://blog.naver.com/bdgom73">
 <img src="https://img.shields.io/badge/Blog-3EAF0E?style=flat&logo=naver&logoColor=white"/>
 </a>
 <a href="https://github.com/bdgom73">
 <img src="https://img.shields.io/badge/Github-222222?style=flat&logo=Github&logoColor=white"/>
 </a>
-
-
-<br>
-<br>
-<br>
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdgom73&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdgom73&show_icons=true&theme=radical)]
 
 
 </div>
