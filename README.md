@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:9333EA&height=180&section=header&text=Hello,%20I'm%20IlJoong!&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Consistent%20Dev%20Growing%20Every%20Day&descAlignY=60&descAlign=50" width="100%" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Knewave&size=28&letterSpacing=noraml&duration=3000&pause=50&center=true&vCenter=true&multiline=true&repeat=false&width=460&height=100&lines=I'm+IlJoong+%F0%9F%98%8A;+Consistent+Dev+Growing+Every+Day" alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -9,7 +9,9 @@
 
 <br/>
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fbdgom73?color=purple&label=hits&size=small)](https://myhits.vercel.app)
+<a href="https://github.com/bdgom73">
+    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fbdgom73?color=3B82F6&label=VISITORS&logo=github&style=flat-square" alt="Hits Badge"/>
+</a>
 
 
 <br/><br/><br/>
@@ -26,6 +28,8 @@
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_data_jpa-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white" />
+        <img src="https://img.shields.io/badge/querydsl-5.0.0-yellowgreen?style=flat-square&logo=SpringSecurity&logoColor=white" /> 
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </td>
     </tr>
@@ -65,6 +69,13 @@
 </div>
 
 <br/><br/>
+
+
+<div align="center">
+  <img src="[https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=15](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord />
+</div>
+
+<br/>
 
 <div align="center">
   <h3>📬 Connect With Me</h3>
