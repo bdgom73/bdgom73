@@ -55,25 +55,6 @@
 
 </div>
 
-<br/><br/>
-
-<div align="center">
-  <h3>📊 GitHub Analytics</h3>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bdgom73&theme=tokyonight&hide_border=true" alt="bdgom73" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=bdgom73&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdgom73&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" height="150px"/>
-</div>
-
-<br/><br/>
-
-
-<div align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=15](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord />
-</div>
 
 <br/>
 
